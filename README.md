@@ -6,9 +6,9 @@
 ## Running the built project 
   1. docker-compose up
   
-  GUIDE
-## Dockerfile 
-  1. setup the configuration
+  
+## GUIDE
+  1. Dockerfile: setup the configuration
   2. docker-compose.yml : configures the services 
   3. requirements.txt " contains the dependencies for running the app on ubuntu server  
   
