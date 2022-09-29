@@ -8,7 +8,7 @@
   
   GUIDE
 ## Dockerfile 
-  NB: setup the configuration
-  NB: docker-compose.yml : configures the services 
-  NB: requirements.txt " contains the dependencies for running the app on ubuntu server 
+  1. setup the configuration
+  2. docker-compose.yml : configures the services 
+  3. requirements.txt " contains the dependencies for running the app on ubuntu server  
   
