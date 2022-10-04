@@ -1,0 +1,5 @@
+1. pymongo enables python code to communicate with the database
+2. the links part means web service depends on the db
+3. so the db should build before the web service
+4. docker-compose is used as the base of communication between the 2 services
+that's the web and the database (web and db)
