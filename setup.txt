@@ -8,3 +8,7 @@ that's the web and the database (web and db)
 5. the password encryption was done using bcrypt
 
 
+DATABASE AS SERVICE
+1. registration end point  POST /register takes username and password
+2. storing a sentence POST /store takes' username, password and sentence
+3. retrieving a stored sentence GET /store  username and password
